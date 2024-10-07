@@ -14,6 +14,8 @@
 		E8D919C12CAB49E700EC1347 /* BozaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E8D919BF2CAB49E700EC1347 /* BozaColeccionDeJuegos.xcdatamodeld */; };
 		E8D919C32CAB49E800EC1347 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8D919C22CAB49E800EC1347 /* Assets.xcassets */; };
 		E8D919C62CAB49E800EC1347 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E8D919C52CAB49E800EC1347 /* Base */; };
+		E8D919CE2CAB5F7000EC1347 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8D919CD2CAB5F7000EC1347 /* JuegosViewController.swift */; };
+		E8D919D02CAB69AD00EC1347 /* gatitosbonitos.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E8D919CF2CAB69AD00EC1347 /* gatitosbonitos.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		E8D919C22CAB49E800EC1347 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8D919C52CAB49E800EC1347 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E8D919C72CAB49E800EC1347 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8D919CD2CAB5F7000EC1347 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
+		E8D919CF2CAB69AD00EC1347 /* gatitosbonitos.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gatitosbonitos.jpeg; path = ../../../../../../Downloads/gatitosbonitos.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				E8D919C42CAB49E800EC1347 /* LaunchScreen.storyboard */,
 				E8D919C72CAB49E800EC1347 /* Info.plist */,
 				E8D919BF2CAB49E700EC1347 /* BozaColeccionDeJuegos.xcdatamodeld */,
+				E8D919CD2CAB5F7000EC1347 /* JuegosViewController.swift */,
+				E8D919CF2CAB69AD00EC1347 /* gatitosbonitos.jpeg */,
 			);
 			path = BozaColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -128,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8D919D02CAB69AD00EC1347 /* gatitosbonitos.jpeg in Resources */,
 				E8D919C32CAB49E800EC1347 /* Assets.xcassets in Resources */,
 				E8D919C62CAB49E800EC1347 /* Base in Resources */,
 				E8D919BE2CAB49E700EC1347 /* Base in Resources */,
@@ -141,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8D919CE2CAB5F7000EC1347 /* JuegosViewController.swift in Sources */,
 				E8D919BB2CAB49E700EC1347 /* ViewController.swift in Sources */,
 				E8D919B72CAB49E700EC1347 /* AppDelegate.swift in Sources */,
 				E8D919B92CAB49E700EC1347 /* SceneDelegate.swift in Sources */,
